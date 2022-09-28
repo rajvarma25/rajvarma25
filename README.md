@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajvarma25
 - 👀 I’m interested in creating and learning programming
 - 🌱 I’m currently learning java with python
-- 💞️ I’m looking to collaborate on android and ios app development             
+- 💞️ I’m busy in coding as much as i             
 - 📫 How to reach me rajvarma89446@gmail.com
 
 <!---

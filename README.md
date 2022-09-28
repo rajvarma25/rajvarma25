@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating and learning programming
 - 🌱 I’m currently learning java with python
 - 💞️ I’m busy in coding as much as i             
-- 📫 How to reach me rajvarma89446@gmail.com
+- 📫 Follow me on insta-@ipraj25
 
 <!---
 rajvarma25/rajvarma25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
